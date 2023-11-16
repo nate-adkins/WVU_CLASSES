@@ -1,0 +1,27 @@
+[submodule "EE_327"]
+	path = EE_327
+	url = git@github.com:nate-adkins/EE_327.git
+[submodule "EE_355"]
+	path = EE_355
+	url = git@github.com:nate-adkins/EE_355.git
+[submodule "CPE_310"]
+	path = CPE_310
+	url = git@github.com:nate-adkins/CPE_310.git
+[submodule "CPE_272"]
+	path = CPE_272
+	url = git@github.com:nate-adkins/CPE_272.git
+[submodule "EE_252"]
+	path = EE_252
+	url = git@github.com:nate-adkins/EE_252.git
+[submodule "CS_230"]
+	path = CS_230
+	url = git@github.com:nate-adkins/CS_230.git
+[submodule "ENGR_102"]
+	path = ENGR_102
+	url = git@github.com:nate-adkins/ENGR_102.git
+[submodule "CS_111"]
+	path = CS_111
+	url = git@github.com:nate-adkins/CS_111.git
+[submodule "CS_110"]
+	path = CS_110
+	url = git@github.com:nate-adkins/CS_110.git
